@@ -34,6 +34,7 @@ jobs:
           - ember-3.2
           - ember-3.3
           - ember-3.4
+          - ember-3.5
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2-beta
